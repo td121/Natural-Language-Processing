@@ -11,6 +11,8 @@
   4.  get_padded_sequences
   5.  tokenize_labels
   
+  
+  Word-embedding is the most important technique in Natural Language processing. 
 
 
 
